@@ -1,2 +1,4 @@
 123
 druga linia kodu
+trzecia linijka
+czwarta też się przyda
